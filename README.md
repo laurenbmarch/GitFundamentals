@@ -12,7 +12,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
-- [git clone](.Commands/Clone.md)
+- [git clone](./Commands/Clone.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
